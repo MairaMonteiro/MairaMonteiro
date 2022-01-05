@@ -5,7 +5,7 @@
 
 - 🔭 Estou trabalhando num projeto com a PokeAPI e Python
 - 👩‍💻 Estudando: Espanhol, Python, SQL, GCP e Azure
-- 😄 Pronouns: Ela/Dela (She/Her)
+- 😄 Pronomes: Ela/Dela (She/Her)
 - ⚡ Curiosidades: Gosto de fazer crochê
 - 📫 Contato: mairamonte@gmail.com
 
