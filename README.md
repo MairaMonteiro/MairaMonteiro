@@ -1,5 +1,12 @@
 ## Olá! Sou a Maíra Monteiro 👋
+
+<p align="center">
+    <img alt="maira-welcome" src="https://github.com/MairaMonteiro/MairaMonteiro/blob/main/bem%20vindo%20ao%20github.png">
+</p>
+
 <img align="right" alt="maira-avatar" height="250" width="250" src="https://share-cdn.picrew.me/shareImg/org/202112/94097_WeR0aax4.png">
+
+<br>
 
 ### Sou uma engenheira de dados procurando uma oportunidade no mundo da tecnologia
 
@@ -19,7 +26,33 @@
 <br>
 <br>
   
-##  
+
+ #### 💻 Uso diário:
+ ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+ ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)
+ ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
+ ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
+ ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
+ ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter) 
+    
+ #### ⚙️ Engenharia de dados:
+ ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=plastic&logo=Apache-Spark)
+ ![Databricks](https://img.shields.io/badge/-Databricks-black?style=plastic&logo=Databricks)
+ ![Hadoop](https://img.shields.io/badge/-Hadoop-black?style=plastic&logo=Apache-Hadoop)
+ ![Airflow](https://img.shields.io/badge/-Airflow-black?style=plastic&logo=Apache-Airflow)
+ ![GCP](https://img.shields.io/badge/-GCP-black?style=plastic&logo=GCP)
+ ![Pandas](https://img.shields.io/badge/-Pandas-black?style=plastic&logo=Pandas)
+
+ 
+ #### 📚 Tenho conhecimento básico:
+ ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=Mongodb)
+ 
+ <!--#### 🌱 Estou aprendendo:-->
+
+ 
+ 
+ <!--
+ <br>****    
 <div style="display: inline_block"><br>
  <img align="center" alt="Bela-Python" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
  <img align="center" alt="Bela-Pandas" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
@@ -31,6 +64,7 @@
  <img align="center" alt="Bela-DataBricks" height="100" width="100" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" />
  <img align="center" alt="Bela-cloud" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
 </div>
+-->
   
 <!--
 ##  
