@@ -10,10 +10,10 @@
 
 ### Sou uma engenheira de dados procurando uma oportunidade no mundo da tecnologia
 
-- 🔭 Estou trabalhando num projeto com a PokeAPI e Python
-- 👩‍💻 Estudando: Espanhol, Python, SQL, GCP e Azure
+- 🔭 Estou trabalhando em Engenharia e Análise de Dados 
+- 👩‍💻 Estudando: Espanhol, Coreano, Chinês, Python, SQL, GCP e Azure
 - 😄 Pronomes: Ela/Dela (She/Her)
-- ⚡ Curiosidades: Gosto de fazer crochê
+- ⚡ Curiosidades: Adoro aprender línguas estrangeiras
 - 📫 Contato: mairamonte@gmail.com
 
 <br><br>
