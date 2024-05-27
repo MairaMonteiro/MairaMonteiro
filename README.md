@@ -4,7 +4,7 @@
     <img alt="maira-welcome" src="https://github.com/MairaMonteiro/MairaMonteiro/blob/main/bem%20vindo%20ao%20github.png">
 </p>
 
-<img align="right" alt="maira-avatar" height="250" width="250" src="https://share-cdn.picrew.me/shareImg/org/202112/94097_WeR0aax4.png">
+<!-- <img align="right" alt="maira-avatar" height="250" width="250" src="https://share-cdn.picrew.me/shareImg/org/202112/94097_WeR0aax4.png"> -->
 
 <br>
 
