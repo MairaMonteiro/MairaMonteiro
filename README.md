@@ -11,7 +11,7 @@
 ### Sou uma engenheira de dados procurando uma oportunidade no mundo da tecnologia
 
 - 🔭 Estou trabalhando em Engenharia e Análise de Dados 
-- 👩‍💻 Estudando: Espanhol, Coreano, Chinês, Python, SQL, GCP e Azure
+- 👩‍💻 Estudando: Espanhol, Chinês, Python, SQL, AWS
 - 😄 Pronomes: Ela/Dela (She/Her)
 - ⚡ Curiosidades: Adoro aprender línguas estrangeiras
 - 📫 Contato: mairamonte@gmail.com
